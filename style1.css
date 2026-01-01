@@ -1,0 +1,15 @@
+*{
+    margin-bottom: 100px ;
+}
+h1{
+    color: red;
+}
+box{
+    height: 200px;
+    width: 250px;
+    color: antiquewhite;
+    background-color: rgb(40, 202, 8);
+    border: 10px red solid;
+    border-radius: 20px;
+    padding: 20px;
+}
